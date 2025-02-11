@@ -1,4 +1,5 @@
 # 🍽️ Analisi dell'Impatto Economico delle Cene e Pranzi Fuori in Australia
+<img src="./image.png" width="800" class="center">
 
 ## 📌 Descrizione del Progetto
 Questo progetto analizza l'impatto economico delle spese per pranzi e cene fuori casa in Australia, utilizzando un'analisi di serie storiche con metodi di previsione avanzati. L'obiettivo è identificare trend, stagionalità e ciclicità nei dati e confrontare diversi modelli di previsione per determinare il più accurato.
